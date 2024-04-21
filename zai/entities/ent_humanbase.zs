@@ -1,0 +1,3 @@
+class ConsHumanBase : BaseActor {
+    
+}
