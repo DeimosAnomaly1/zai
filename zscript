@@ -1,11 +1,3 @@
 version "4.12.0"
 
-#include "zai/entities/ent_base.zs"
-#include "zai/entities/ent_humanbase.zs"
-
-#include "zai/entities/ent_creaturebase.zs"
-
-#include "zai/entities/ent_task.zs"
-#include "zai/entities/ent_schedule.zs"
-
-#include "zai/entities/tests/soldier/guard.zs"
+#include "zai/include.zs"

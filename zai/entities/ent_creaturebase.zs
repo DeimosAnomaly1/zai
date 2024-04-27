@@ -1,1 +1,0 @@
-class ConsCreature : BaseActor {}
